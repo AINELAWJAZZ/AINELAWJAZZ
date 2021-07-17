@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on android projects
 - 📫 How to reach me @Ainelawjazz
+- instgram Aine Lawjazz
 
 <!---
 AINELAWJAZZ/AINELAWJAZZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
